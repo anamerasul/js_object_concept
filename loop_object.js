@@ -38,3 +38,8 @@ for (const prop of keys) {
 for (const[key,value] of Object.entries(bottle)){
         console.log(key, value)
 }
+
+//
+// const arr =['color','jeans','fix'];
+
+arr[0];
